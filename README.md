@@ -6,7 +6,7 @@ https://quizzical-ptolemy-d7becf.netlify.app/
 
 ## App overview
 
-![alt text](https://github.com/vlarreze/React-BTCPay/blob/master/public/netlify-app.PNG?raw=true)
+![alt text](https://github.com/vlarreze/React-BTCPay/public/netlify-app.PNG)
 
 ## Available Scripts
 
