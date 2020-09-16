@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://quizzical-ptolemy-d7becf.netlify.app/
 
+## App overview
+
+![alt text](https://github.com/vlarreze/React-BTCPay/blob/master/public/images/serveur.PNG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
